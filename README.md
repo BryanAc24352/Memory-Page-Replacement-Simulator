@@ -6,10 +6,9 @@ Este proyecto es un simulador que implementa varios algoritmos de reemplazo de p
 - Algoritmos Implementados:
   - FIFO (First In, First Out)
   - Óptimo
-  - NRU (Not Recently Used)
+  - NRU 
   - Segunda Oportunidad
-  - Reloj (Vácter)
-  - Algoritmo de Relajación (Relaj)
+  - Reloj
 
 - Funcionalidades:
   - Configuración de la cantidad de marcos de página.
@@ -35,6 +34,6 @@ Algoritmo de FIFO:
 
 ![image](https://github.com/user-attachments/assets/b295eb23-f01e-4e2c-8387-0c42c2fb1b15)
 
-Algoritmo de optimo:
+Algoritmo de Óptimo:
 
 ![image](https://github.com/user-attachments/assets/c948836b-ddb6-49ca-843e-7443e5997be5)
