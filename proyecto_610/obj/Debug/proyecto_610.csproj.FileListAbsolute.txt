@@ -1,0 +1,70 @@
+C:\Users\Bryan Aguilar\source\repos\proyecto_610\proyecto_610\bin\Debug\proyecto_610.exe.config
+C:\Users\Bryan Aguilar\source\repos\proyecto_610\proyecto_610\bin\Debug\proyecto_610.exe
+C:\Users\Bryan Aguilar\source\repos\proyecto_610\proyecto_610\bin\Debug\proyecto_610.pdb
+C:\Users\Bryan Aguilar\source\repos\proyecto_610\proyecto_610\obj\Debug\proyecto_610.csproj.AssemblyReference.cache
+C:\Users\Bryan Aguilar\source\repos\proyecto_610\proyecto_610\obj\Debug\proyecto_610.Properties.Resources.resources
+C:\Users\Bryan Aguilar\source\repos\proyecto_610\proyecto_610\obj\Debug\proyecto_610.csproj.GenerateResource.cache
+C:\Users\Bryan Aguilar\source\repos\proyecto_610\proyecto_610\obj\Debug\proyecto_610.csproj.CoreCompileInputs.cache
+C:\Users\Bryan Aguilar\source\repos\proyecto_610\proyecto_610\obj\Debug\proyecto_610.exe
+C:\Users\Bryan Aguilar\source\repos\proyecto_610\proyecto_610\obj\Debug\proyecto_610.pdb
+C:\Users\Bryan Aguilar\source\repos\proyecto_610\proyecto_610\obj\Debug\proyecto_610.Home.resources
+C:\Users\Blanca Arias\Downloads\proyecto_610v3\proyecto_610\proyecto_610\bin\Debug\proyecto_610.exe.config
+C:\Users\Blanca Arias\Downloads\proyecto_610v3\proyecto_610\proyecto_610\bin\Debug\proyecto_610.exe
+C:\Users\Blanca Arias\Downloads\proyecto_610v3\proyecto_610\proyecto_610\bin\Debug\proyecto_610.pdb
+C:\Users\Blanca Arias\Downloads\proyecto_610v3\proyecto_610\proyecto_610\obj\Debug\proyecto_610.csproj.AssemblyReference.cache
+C:\Users\Blanca Arias\Downloads\proyecto_610v3\proyecto_610\proyecto_610\obj\Debug\proyecto_610.Home.resources
+C:\Users\Blanca Arias\Downloads\proyecto_610v3\proyecto_610\proyecto_610\obj\Debug\proyecto_610.Properties.Resources.resources
+C:\Users\Blanca Arias\Downloads\proyecto_610v3\proyecto_610\proyecto_610\obj\Debug\proyecto_610.csproj.GenerateResource.cache
+C:\Users\Blanca Arias\Downloads\proyecto_610v3\proyecto_610\proyecto_610\obj\Debug\proyecto_610.csproj.CoreCompileInputs.cache
+C:\Users\Blanca Arias\Downloads\proyecto_610v3\proyecto_610\proyecto_610\obj\Debug\proyecto_610.exe
+C:\Users\Blanca Arias\Downloads\proyecto_610v3\proyecto_610\proyecto_610\obj\Debug\proyecto_610.pdb
+C:\Users\Bryan Aguilar\Downloads\proyecto_610v3\proyecto_610v3\proyecto_610\proyecto_610\bin\Debug\proyecto_610.exe.config
+C:\Users\Bryan Aguilar\Downloads\proyecto_610v3\proyecto_610v3\proyecto_610\proyecto_610\bin\Debug\proyecto_610.exe
+C:\Users\Bryan Aguilar\Downloads\proyecto_610v3\proyecto_610v3\proyecto_610\proyecto_610\bin\Debug\proyecto_610.pdb
+C:\Users\Bryan Aguilar\Downloads\proyecto_610v3\proyecto_610v3\proyecto_610\proyecto_610\obj\Debug\proyecto_610.csproj.AssemblyReference.cache
+C:\Users\Bryan Aguilar\Downloads\proyecto_610v3\proyecto_610v3\proyecto_610\proyecto_610\obj\Debug\proyecto_610.Home.resources
+C:\Users\Bryan Aguilar\Downloads\proyecto_610v3\proyecto_610v3\proyecto_610\proyecto_610\obj\Debug\proyecto_610.Properties.Resources.resources
+C:\Users\Bryan Aguilar\Downloads\proyecto_610v3\proyecto_610v3\proyecto_610\proyecto_610\obj\Debug\proyecto_610.csproj.GenerateResource.cache
+C:\Users\Bryan Aguilar\Downloads\proyecto_610v3\proyecto_610v3\proyecto_610\proyecto_610\obj\Debug\proyecto_610.csproj.CoreCompileInputs.cache
+C:\Users\Bryan Aguilar\Downloads\proyecto_610v3\proyecto_610v3\proyecto_610\proyecto_610\obj\Debug\proyecto_610.exe
+C:\Users\Bryan Aguilar\Downloads\proyecto_610v3\proyecto_610v3\proyecto_610\proyecto_610\obj\Debug\proyecto_610.pdb
+C:\Users\Blanca Arias\Downloads\proyecto_1parcial\proyecto_610\proyecto_610\bin\Debug\proyecto_610.exe.config
+C:\Users\Blanca Arias\Downloads\proyecto_1parcial\proyecto_610\proyecto_610\bin\Debug\proyecto_610.exe
+C:\Users\Blanca Arias\Downloads\proyecto_1parcial\proyecto_610\proyecto_610\bin\Debug\proyecto_610.pdb
+C:\Users\Blanca Arias\Downloads\proyecto_1parcial\proyecto_610\proyecto_610\obj\Debug\proyecto_610.csproj.AssemblyReference.cache
+C:\Users\Blanca Arias\Downloads\proyecto_1parcial\proyecto_610\proyecto_610\obj\Debug\proyecto_610.Home.resources
+C:\Users\Blanca Arias\Downloads\proyecto_1parcial\proyecto_610\proyecto_610\obj\Debug\proyecto_610.Properties.Resources.resources
+C:\Users\Blanca Arias\Downloads\proyecto_1parcial\proyecto_610\proyecto_610\obj\Debug\proyecto_610.csproj.GenerateResource.cache
+C:\Users\Blanca Arias\Downloads\proyecto_1parcial\proyecto_610\proyecto_610\obj\Debug\proyecto_610.csproj.CoreCompileInputs.cache
+C:\Users\Blanca Arias\Downloads\proyecto_1parcial\proyecto_610\proyecto_610\obj\Debug\proyecto_610.exe
+C:\Users\Blanca Arias\Downloads\proyecto_1parcial\proyecto_610\proyecto_610\obj\Debug\proyecto_610.pdb
+C:\Users\Bryan Aguilar\Downloads\proyecto_1parcial\proyecto_1parcial\proyecto_610\proyecto_610\bin\Debug\proyecto_610.exe.config
+C:\Users\Bryan Aguilar\Downloads\proyecto_1parcial\proyecto_1parcial\proyecto_610\proyecto_610\bin\Debug\proyecto_610.exe
+C:\Users\Bryan Aguilar\Downloads\proyecto_1parcial\proyecto_1parcial\proyecto_610\proyecto_610\bin\Debug\proyecto_610.pdb
+C:\Users\Bryan Aguilar\Downloads\proyecto_1parcial\proyecto_1parcial\proyecto_610\proyecto_610\obj\Debug\proyecto_610.csproj.AssemblyReference.cache
+C:\Users\Bryan Aguilar\Downloads\proyecto_1parcial\proyecto_1parcial\proyecto_610\proyecto_610\obj\Debug\proyecto_610.Home.resources
+C:\Users\Bryan Aguilar\Downloads\proyecto_1parcial\proyecto_1parcial\proyecto_610\proyecto_610\obj\Debug\proyecto_610.Properties.Resources.resources
+C:\Users\Bryan Aguilar\Downloads\proyecto_1parcial\proyecto_1parcial\proyecto_610\proyecto_610\obj\Debug\proyecto_610.csproj.GenerateResource.cache
+C:\Users\Bryan Aguilar\Downloads\proyecto_1parcial\proyecto_1parcial\proyecto_610\proyecto_610\obj\Debug\proyecto_610.csproj.CoreCompileInputs.cache
+C:\Users\Bryan Aguilar\Downloads\proyecto_1parcial\proyecto_1parcial\proyecto_610\proyecto_610\obj\Debug\proyecto_610.exe
+C:\Users\Bryan Aguilar\Downloads\proyecto_1parcial\proyecto_1parcial\proyecto_610\proyecto_610\obj\Debug\proyecto_610.pdb
+C:\Users\Blanca Arias\Downloads\proyectoV5\proyecto_610\proyecto_610\bin\Debug\proyecto_610.exe.config
+C:\Users\Blanca Arias\Downloads\proyectoV5\proyecto_610\proyecto_610\bin\Debug\proyecto_610.exe
+C:\Users\Blanca Arias\Downloads\proyectoV5\proyecto_610\proyecto_610\bin\Debug\proyecto_610.pdb
+C:\Users\Blanca Arias\Downloads\proyectoV5\proyecto_610\proyecto_610\obj\Debug\proyecto_610.csproj.AssemblyReference.cache
+C:\Users\Blanca Arias\Downloads\proyectoV5\proyecto_610\proyecto_610\obj\Debug\proyecto_610.Home.resources
+C:\Users\Blanca Arias\Downloads\proyectoV5\proyecto_610\proyecto_610\obj\Debug\proyecto_610.Properties.Resources.resources
+C:\Users\Blanca Arias\Downloads\proyectoV5\proyecto_610\proyecto_610\obj\Debug\proyecto_610.csproj.GenerateResource.cache
+C:\Users\Blanca Arias\Downloads\proyectoV5\proyecto_610\proyecto_610\obj\Debug\proyecto_610.csproj.CoreCompileInputs.cache
+C:\Users\Blanca Arias\Downloads\proyectoV5\proyecto_610\proyecto_610\obj\Debug\proyecto_610.exe
+C:\Users\Blanca Arias\Downloads\proyectoV5\proyecto_610\proyecto_610\obj\Debug\proyecto_610.pdb
+C:\Users\Bryan Aguilar\Downloads\proyecto Ultima Version\proyecto Ultima Version\proyecto_610\proyecto_610\bin\Debug\proyecto_610.exe.config
+C:\Users\Bryan Aguilar\Downloads\proyecto Ultima Version\proyecto Ultima Version\proyecto_610\proyecto_610\bin\Debug\proyecto_610.exe
+C:\Users\Bryan Aguilar\Downloads\proyecto Ultima Version\proyecto Ultima Version\proyecto_610\proyecto_610\bin\Debug\proyecto_610.pdb
+C:\Users\Bryan Aguilar\Downloads\proyecto Ultima Version\proyecto Ultima Version\proyecto_610\proyecto_610\obj\Debug\proyecto_610.csproj.AssemblyReference.cache
+C:\Users\Bryan Aguilar\Downloads\proyecto Ultima Version\proyecto Ultima Version\proyecto_610\proyecto_610\obj\Debug\proyecto_610.Home.resources
+C:\Users\Bryan Aguilar\Downloads\proyecto Ultima Version\proyecto Ultima Version\proyecto_610\proyecto_610\obj\Debug\proyecto_610.Properties.Resources.resources
+C:\Users\Bryan Aguilar\Downloads\proyecto Ultima Version\proyecto Ultima Version\proyecto_610\proyecto_610\obj\Debug\proyecto_610.csproj.GenerateResource.cache
+C:\Users\Bryan Aguilar\Downloads\proyecto Ultima Version\proyecto Ultima Version\proyecto_610\proyecto_610\obj\Debug\proyecto_610.csproj.CoreCompileInputs.cache
+C:\Users\Bryan Aguilar\Downloads\proyecto Ultima Version\proyecto Ultima Version\proyecto_610\proyecto_610\obj\Debug\proyecto_610.exe
+C:\Users\Bryan Aguilar\Downloads\proyecto Ultima Version\proyecto Ultima Version\proyecto_610\proyecto_610\obj\Debug\proyecto_610.pdb
