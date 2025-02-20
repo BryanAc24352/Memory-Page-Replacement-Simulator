@@ -20,16 +20,21 @@ Este proyecto es un simulador que implementa varios algoritmos de reemplazo de p
 -Capturas de pantalla del proyecto en ejecucion: 
 
 Algoritmo de segunda oportunidad:
+
 ![image](https://github.com/user-attachments/assets/220e6e29-3600-4536-b7fb-39da05b48692)
 
 Algoritmo de NRU:
+
 ![image](https://github.com/user-attachments/assets/635af677-d3f0-46a4-97cd-4d07ec7c916b)
 
 Algoritmo de reloj:
+
 ![image](https://github.com/user-attachments/assets/b0e75d25-5c23-4406-915a-ea7843f70500)
 
 Algoritmo de FIFO:
+
 ![image](https://github.com/user-attachments/assets/b295eb23-f01e-4e2c-8387-0c42c2fb1b15)
 
 Algoritmo de optimo:
+
 ![image](https://github.com/user-attachments/assets/c948836b-ddb6-49ca-843e-7443e5997be5)
